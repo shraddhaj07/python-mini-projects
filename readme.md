@@ -36,7 +36,7 @@ A desktop notification application that reminds users to drink water at regular 
 
 ---
 
-# File Organizer#
+# File Organizer
 A file management tool that automatically organizes files based on their extensions and moves them into appropriate folders.
 
 *Concepts Used:*
