@@ -1,5 +1,5 @@
 --QuizPro--
-A Python console-based quiz game inspired by Kaun Banega Crorepati.
+A Python console-based quiz game.
 
 --Features
 - Multiple choice questions
