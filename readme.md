@@ -2,7 +2,7 @@ Python Mini Projects
 A collection of beginner-friendly Python projects built while learning Python programming,and working with external libraries.
 --Projects--
 
-# QuizPro #
+# QuizPro 
 A command-line quiz game. Users answer multiple-choice questions and win virtual prize money.
 
 *Concepts Used:*
@@ -14,7 +14,7 @@ A command-line quiz game. Users answer multiple-choice questions and win virtual
 
 ---
 
-# PDF Merger #
+# PDF Merger 
 A utility that merges multiple PDF files into a single PDF document using the PyPDF2 library.
 
 *Concepts Used:*
